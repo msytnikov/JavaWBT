@@ -71,11 +71,11 @@ public class Selenium {
 
                    String title_actual = driver.getTitle();
 
-                   s[i][0] = text_case_id;
+                   s2d[i][0] = text_case_id;
 
-                   s[i][1] = title_expected;
+                   s2d[i][1] = title_expected;
 
-                   s[i][2] = title_actual;
+                   s2d[i][2] = title_actual;
 
                    i++;
 

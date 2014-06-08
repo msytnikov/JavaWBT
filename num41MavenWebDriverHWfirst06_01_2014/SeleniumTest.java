@@ -7,7 +7,7 @@ import org.junit.BeforeClass;
 import org.junit.ComparisonFailure;
 import org.junit.Test;
 import org.junit.runners.Parameterized;
-//import org.junit.runners.Parameterized.Parameter;
+ import org.junit.runners.Parameterized.Parameter;
 import org.junit.runners.Parameterized.Parameters;
 import org.junit.runner.RunWith;
 
